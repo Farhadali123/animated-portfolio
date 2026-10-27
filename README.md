@@ -4,6 +4,8 @@ A cinematic, responsive portfolio website for Farhad Ali, a software developer
 in Islamabad. The page introduces Farhad, showcases selected projects and
 technical skills, and provides a way to get in touch.
 
+**Live site:** [animated-portfolio-dun.vercel.app](https://animated-portfolio-dun.vercel.app)
+
 ## About the site
 
 This is a self-contained static website: its HTML, CSS, JavaScript, and embedded
@@ -15,7 +17,7 @@ animated effects, and Fraunces and Hanken Grotesk fonts from Google Fonts.
 Open `index.html` in a modern web browser. No build step or package installation
 is required.
 
-## Deploy
+## Deployment
 
-The site can be deployed as a static project on Vercel. Import this repository
-and use the default settings; no framework or build command is needed.
+Deployed on Vercel as a static site. Push changes to the `main` branch to update
+the production deployment.
